@@ -15,7 +15,7 @@ This project is an analysis of the Breast Cancer Coimbra data set taken from [UC
 To download this project, you must run the following command down below.
 
 ```
-https://github.com/JuanPablo70/PGAD-Assignment01.git
+git clone https://github.com/JuanPablo70/PGAD-Assignment01.git
 ```
 
 Open Jupyter Notebook on your computer and open the ```Breast Cancer Coimbra Data Set.ipynb``` file.
